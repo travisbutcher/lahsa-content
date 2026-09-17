@@ -1,0 +1,14 @@
+{
+  "branch": "main",
+  "deployed_commit_sha": null,
+  "environment": "Production",
+  "items": {
+    "f8e0752d647f495788c2071fa0acd364": {
+      "item_id": "2c10dc88b1e14a53a0d483a9dca0e8be",
+      "item_type": "Feature Service",
+      "url": "https://services2.arcgis.com/LMBdfutQCnDGYUyc/arcgis/rest/services/Volunteer_PincDragin/FeatureServer"
+    }
+  },
+  "product": "pinc-dragin",
+  "schema_version": "2.0.0"
+}
