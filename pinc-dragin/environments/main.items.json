@@ -1,12 +1,69 @@
 {
   "branch": "main",
   "deployed_commit_sha": null,
+  "environment": "Development",
+  "items": {
+    "00a3c3a8ca384b8f82c462cc157d6ae3": {
+      "item_id": "368ad432f46a4739aca152097124bfa5",
+      "item_type": "Feature Service",
+      "url": "https://services2.arcgis.com/LMBdfutQCnDGYUyc/arcgis/rest/services/Public_PincDragin/FeatureServer"
+    },
+    "1c00d7ff1307489e853a2ad5821f0010": {
+      "item_id": "82f5336b10844c30a6b8921cebbbe38f",
+      "item_type": "Feature Service",
+      "url": "https://services2.arcgis.com/LMBdfutQCnDGYUyc/arcgis/rest/services/Closed_Registration_PincDragin/FeatureServer"
+    },
+    "234137e2d6fd45bfae63a847a30b00f8": {
+      "item_id": "2bf55b2120fe4ae89ba00ccd0b980d45",
+      "item_type": "Feature Service",
+      "url": "https://services2.arcgis.com/LMBdfutQCnDGYUyc/arcgis/rest/services/Analysis_PincDragin/FeatureServer"
+    },
+    "5b76082caa8c4c1f9592c6d4a2095727": {
+      "item_id": "5932c4672ede48fa9fab06a3d947831a",
+      "item_type": "Feature Service",
+      "url": "https://services2.arcgis.com/LMBdfutQCnDGYUyc/arcgis/rest/services/Site_Coordinator_Pincdragin/FeatureServer"
+    },
+    "68859490ae824309bbd19db22192f7a7": {
+      "item_id": "4bfd4258bdc34b8f85c24c96effec73d",
+      "item_type": "Feature Service",
+      "url": "https://services2.arcgis.com/LMBdfutQCnDGYUyc/arcgis/rest/services/Observations/FeatureServer"
+    },
+    "af3c2a62f45d420189a7d2d6fe41fa56": {
+      "item_id": "97de5c5ab3a3472a809ece9a7d5cdbc4",
+      "item_type": "Feature Service",
+      "url": "https://services2.arcgis.com/LMBdfutQCnDGYUyc/arcgis/rest/services/PincDragin2025/FeatureServer"
+    },
+    "cc2d81eb411c472f841121116e8c5491": {
+      "item_id": "0bf933bd6e7c41c885277a923987c38d",
+      "item_type": "Feature Service",
+      "url": "https://services2.arcgis.com/LMBdfutQCnDGYUyc/arcgis/rest/services/Update_CST_View/FeatureServer"
+    },
+    "cd4749191c1942dda50915609320ce34": {
+      "item_id": "60803dbc4af14368959a966496e3910f",
+      "item_type": "Feature Service",
+      "url": "https://services2.arcgis.com/LMBdfutQCnDGYUyc/arcgis/rest/services/PincDragin_5_view/FeatureServer"
+    },
+    "d70c4af4d7cc4dfa9fb4c04428d38eaf": {
+      "item_id": "2d20710ea8744d94b4487961f2a963eb",
+      "item_type": "Feature Service",
+      "url": "https://services2.arcgis.com/LMBdfutQCnDGYUyc/arcgis/rest/services/PincDragin_3_view/FeatureServer"
+    },
+    "f2d06a9e5d6045038eb7003e98f857d2": {
+      "item_id": "ec58db5aa7d94ceb9c53bd0d75883ad7",
+      "item_type": "Feature Service",
+      "url": "https://services2.arcgis.com/LMBdfutQCnDGYUyc/arcgis/rest/services/Open_Registration_PincDragin/FeatureServer"
+    },
   "environment": "Production",
   "items": {
     "f8e0752d647f495788c2071fa0acd364": {
       "item_id": "2c10dc88b1e14a53a0d483a9dca0e8be",
       "item_type": "Feature Service",
       "url": "https://services2.arcgis.com/LMBdfutQCnDGYUyc/arcgis/rest/services/Volunteer_PincDragin/FeatureServer"
+    },
+    "fc4ac81bf7294761a420647821b4e1a2": {
+      "item_id": "4ce5ea21918d48029eaa1ac874942f32",
+      "item_type": "Feature Service",
+      "url": "https://services2.arcgis.com/LMBdfutQCnDGYUyc/arcgis/rest/services/Query_Pinc_Dragin/FeatureServer"
     }
   },
   "product": "pinc-dragin",
